@@ -1,2 +1,5 @@
 # food-network
-html and css only
+
+-non responsive
+-html
+-css
